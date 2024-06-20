@@ -8,10 +8,10 @@ icon: ":sparkles:"
 ---
 ![](/Images/24d0c14136145b62d821f3dbf9ef1611.png)
 
-# ✨ About Us {#about-us}
+# ✨ About Us
 You are about to join a homebrew text-only server where you will take on bounties West Marches style, meet hundreds of new people, and live out an epic life of an adventurer. Crab was here!
 
-## Who We Are {#who-we-are}
+## Who We Are 
 > - The largest text-based D&D living world!
 > - Friendly community that welcomes and teaches newbies
 > - The world is in a homebrew medieval fantasy setting
@@ -23,7 +23,7 @@ You are about to join a homebrew text-only server where you will take on bountie
 > - Not in Forgotten Realms setting
 > - Not affiliated with AL (Adventurer’s League) in any way. No XP can be transferred to/from AL
 
-## What We Do {#what-we-do}
+## What We Do 
 > - 24/7 Active and family-friendly Roleplays
 > - Games in Live text sessions
 > - Mobile-friendly text games
@@ -40,7 +40,7 @@ Our staff team is here to help you should you have any problems or questions alo
 
 ---
 
-## World Setting {#world-setting}
+## World Setting
 ![](/Images/JWLNpOf.jpg)
 
 You are on the mainland known as Icris. Icris is a fantasy setting with its own pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. 
@@ -56,7 +56,7 @@ No guns or firearm lookalikes exist in this world. No sci-fi, no references to o
 
 ---
 
-## Snowhaven, Nanam {#snowhaven}
+## Snowhaven, Nanam 
 ![](/Images/noQdg42.jpg)
 
 This is the hub town where all characters gather. **Snowhaven** is a city set in a snowy taiga, where the weather is often cold. The climate is based off Baffin Island, Canada.
